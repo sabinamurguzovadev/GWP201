@@ -8,4 +8,4 @@ Used technologies:
 git add,
 git commit,
 git ignore,
-git push,c
+git push,
