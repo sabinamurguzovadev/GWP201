@@ -5,7 +5,7 @@ How to start?
 2.I created different files in the same repo
 
 Used technologies:
-git add
-git commit
-git ignore
-git push
+git add,
+git commit,
+git ignore,
+git push,c
